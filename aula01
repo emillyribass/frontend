@@ -1,4 +1,4 @@
-<div class="teste">Damila Uniformes</div>
+    <div class="teste">Damila Uniformes</div>
     <hr>
     <h2></h2>
     <hr>
@@ -12,7 +12,7 @@
     </h1>
     
 
-    <h3>Há 13 anos, a empresa Damila vem uniformizando e auxiliando no processo de estilização e segurança dos trabalhadores </h5>
+    <h3>Há 13 anos, a empresa Damila vem uniformizando e auxiliando no processo de estilização e segurança dos trabalhadores. </h5>
 
     <!-- h1, h2, h3 ... são titulos não significa letra grande.
     o tamanho da letra, fonte cor e etc são responsabilidade do CSS-->
@@ -23,5 +23,7 @@
     <div class="container">
     
         <div class="container2">
-        Já para pensar tudo que está por trás dos uniformes que você pede com a gente?
-        Tudo começa pelo atendimento, nosso atendimento é humanizado e foca na sua empresa de maneira totalmente personalizada 
+        Já parou para pensar que tudo que está por trás dos uniformes que você pede com a gente?
+        Tudo começa pelo atendimento, nosso atendimento é humanizado e foca na sua empresa de maneira totalmente personalizada.
+        Após alinharmos todas as suas expectativas, nós partimos para a produção, e é aí que temos um processo bem rigoroso com nosso setor de qualidade. 
+      Tudo vai ser entregue para você apenas se passar pela auditoria e estar 100% de acordo com o que você solicitou. Depois de aprovados, embalamos todos os seus uniformes e partimos para a entrega. E depois disso, é só aproveitar seus novos uniformes!
